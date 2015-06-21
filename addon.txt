@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"			"Auto Promote"
+	"version"			"4.00"
+	"up_date"			"02/03/15"
+	"author_name"		"Mr. Apple"
+	"author_email"		"webmaster@f4egaming.com"
+	"info"			"Auto promoted a player to a specified time using utime. This was originally made by Lead4u, but I have fixed it now, as it was left to die."
+}
